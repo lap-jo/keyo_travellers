@@ -1,0 +1,39 @@
+enable  : true
+title   : "EXPERIENCES FROM REAL PEOPLE"
+subtitle: "What people say about our services."
+testimonial_item :
+  - thumb : "images/testimonial/user-thumb-one.jpg"
+    name  : "Simonns Hodge"
+    company_position: "Traveller"
+    quote : > 
+            "Had fun on my trip to Jinja, the team is great and we took part in a lot of great activities"
+
+  - thumb : "images/testimonial/user-thumb-two.jpg"
+    name  : "Rekon Montino"
+    company_position: "Explorer"
+    quote : > 
+      "Platea odio praesent, tincidunt nisi nam, feugiat vestibulum nullam odio. Amet quis lorem, dignissim in ante, aenean consequat duis diam."
+
+  - thumb : "images/testimonial/user-thumb-three.jpg"
+    name  : "Ryan Hillary"
+    company_position: "penguin"
+    quote : > 
+      "Platea odio praesent, tincidunt nisi nam, feugiat vestibulum nullam odio. Amet quis lorem, dignissim in ante, aenean consequat duis diam."
+
+  - thumb : "images/testimonial/user-thumb-four.jpg"
+    name  : "Dockrel Kahn"
+    company_position: "nitter"
+    quote : > 
+      "Platea odio praesent, tincidunt nisi nam, feugiat vestibulum nullam odio. Amet quis lorem, dignissim in ante, aenean consequat duis diam."
+
+  - thumb : "images/testimonial/user-thumb-five.jpg"
+    name  : "Orino Monteno"
+    company_position: "Anyeri"
+    quote : > 
+      "Platea odio praesent, tincidunt nisi nam, feugiat vestibulum nullam odio. Amet quis lorem, dignissim in ante, aenean consequat duis diam."
+
+  - thumb : "images/testimonial/user-thumb-six.jpg"
+    name  : "Welfo Roy"
+    company_position: "tall"
+    quote : > 
+      "Platea odio praesent, tincidunt nisi nam, feugiat vestibulum nullam odio. Amet quis lorem, dignissim in ante, aenean consequat duis diam."

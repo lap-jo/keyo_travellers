@@ -1,0 +1,14 @@
+enable : true
+heading : "JOIN OTHER!"
+counter_item: 
+  - title: "Happy Explorers"
+    number: "250"
+
+  - title: "Tours Embarked"
+    number: "100"
+
+  - title: "Memories Created"
+    number: "350"
+
+  - title: "Sights Seen"
+    number: "775"
