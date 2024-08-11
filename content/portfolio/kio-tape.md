@@ -7,22 +7,44 @@ category: ["$5000"]
 project_images: ["images/projects/warthog.jpg", "images/projects/warthog.jpg"]
 ---
 
-The “Seamless Watch” watch has all the features that users expect in a digital watch, and some unusual features.
+Here is the information about a tour to Bwindi Impenetrable Forest in Uganda:
 
+Discover the Gorillas of Bwindi Impenetrable Forest
 
-The watch has the following features:
+Nestled in the southwestern corner of Uganda, Bwindi Impenetrable Forest is a 
+UNESCO World Heritage Site that is renowned for its population of endangered 
+mountain gorillas. On a 4-day, 3-night tour with Keyo Tours and Travels, you'll 
+have the opportunity to venture into this lush, biodiverse rainforest and come 
+face-to-face with these magnificent primates in their natural habitat.
 
-Time and date displayed on the screen. Current time is in large numbers, date is in small numbers above it.
+Your adventure begins with a scenic drive from Kampala to the edge of Bwindi 
+Impenetrable Forest. As you approach, the landscape transforms into a verdant, 
+mountainous wonderland - the perfect home for the shy and elusive mountain 
+gorilla. After settling into your comfortable accommodations, you'll spend the 
+next two days trekking through the dense forest undergrowth in search of one of
+Bwindi's gorilla families.
 
-Light: Pressing the light button on the side of the watch activates a light while the button is pressed. Pressing and holding that button for 3 seconds turns on the light and keeps it on, until the button is held again for 3 seconds or up to 2 hours. After 2 hours, it will automatically turn off.
+Led by expert guides, you'll navigate rugged terrain and steep inclines, 
+occasionally relying on machetes to clear a path. The hike can be strenuous, but
+the thrill of spotting a family of gorillas in the wild makes it all worthwhile.
+Once you locate the gorillas, you'll have the privilege of spending up to an hour
+observing their fascinating behaviors and interactions, all while maintaining a 
+safe and respectful distance.
 
-Alarm. A daily alarm may be set for a given time. The alarm may be enabled or disabled. When the alarm is enabled and the alarm time is reached, the watch will beep fast for 5 seconds, then slowly for 30 seconds, then fast for another 5 seconds. Pressing any button stops the alarm sound (in addition to performing its normal function).
+In addition to the iconic mountain gorillas, Bwindi is also home to a vast array
+of other wildlife, including chimpanzees, colobus monkeys, forest elephants, and
+over 350 species of birds. During your stay, you'll have the opportunity to 
+explore the forest's diverse habitats and ecosystems, gaining a deeper appreciation
+for the incredible biodiversity of this protected area.
 
-Timer. Timer mode shows a count-up timer that starts at 00:00. When the timer is started, it counts up. Pressing the start/stop button will pause the timer, pressing it again continues counting up. Pressing and holding the button for 3 seconds resets the timer to 00:00 and stops counting.
+Your Bwindi Impenetrable Forest tour also includes a visit to a local community,
+where you can learn about the culture and traditions of the people who live in 
+the shadow of this remarkable natural wonder. Witness traditional dances, explore
+craft workshops, and gain insight into the daily life of those who call this 
+region home.
 
-Mystery answer. After entering this mode, the screen initially displays “ask now”. The user may ask a yes-or-no question aloud and press the start/stop button, this will display a randomly selected answer that is one of the following: “yeah”, “yeah right”, “no”, “no doubt”, “keep trying”, “keep dreaming”. Whenever the display has more than one word, only one word is displayed for 2 seconds, then the other word is displayed for 2 seconds, alternately. The answer is displayed until the user leaves this mode, or he/she presses start/stop again for a new answer. 
-
-
-Note: these strings are for the English version of the watch, we will need to use completely different strings in other countries without reprogramming the logic of the watch.
-
-The user may cycle among all modes (date/time, timer, mystery answer) by pressing the mode button.
+Priced at $1,500 per person, this all-inclusive package includes round-trip 
+transportation from Kampala, permits for the gorilla trekking experience, 
+accommodations, meals, and the services of an experienced guide. Contact Keyo 
+Tours and Travels today to book your once-in-a-lifetime encounter with the 
+mountain gorillas of Bwindi Impenetrable Forest.
